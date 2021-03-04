@@ -1,0 +1,14 @@
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\x86\tesseract41.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\x64\tesseract41.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.exe.config
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.exe
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\OCR_Demo.pdb
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\bin\Debug\Tesseract.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.csproj.CoreCompileInputs.cache
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.csproj.CopyComplete
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.exe
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.pdb
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.g.resources
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_Demo\obj\Debug\OCR_Demo.csprojAssemblyReference.cache

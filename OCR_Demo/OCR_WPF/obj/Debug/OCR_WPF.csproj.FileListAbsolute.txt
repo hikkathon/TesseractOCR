@@ -1,0 +1,48 @@
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\x86\tesseract41.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\x64\tesseract41.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\OCR_WPF.exe.config
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\OCR_WPF.exe
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\OCR_WPF.pdb
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\bin\Debug\Tesseract.dll
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csprojAssemblyReference.cache
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\WhiteWindow.g.cs
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\App.g.cs
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF_MarkupCompile.cache
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF_MarkupCompile.lref
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\MainWindow.baml
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\WhiteWindow.baml
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.g.resources
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.Properties.Resources.resources
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csproj.GenerateResource.cache
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csproj.CoreCompileInputs.cache
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csproj.CopyComplete
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.exe
+C:\Users\MyPC0\source\repos\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.pdb
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\x86\leptonica-1.80.0.dll
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\x86\tesseract41.dll
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\x64\leptonica-1.80.0.dll
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\x64\tesseract41.dll
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\OCR_WPF.exe.config
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\OCR_WPF.exe
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\OCR_WPF.pdb
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\bin\Debug\Tesseract.dll
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\MainWindow.g.cs
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\WhiteWindow.g.cs
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\App.g.cs
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF_MarkupCompile.cache
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF_MarkupCompile.lref
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\MainWindow.baml
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\WhiteWindow.baml
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.g.resources
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.Properties.Resources.resources
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csproj.GenerateResource.cache
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csproj.CoreCompileInputs.cache
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csproj.CopyComplete
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.exe
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.pdb
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\OCR_WPF.csprojAssemblyReference.cache
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\StatWindow.g.cs
+D:\#1 Work\#1 Working folder\#1 Programming\Coding\C#\OCR_Demo\OCR_WPF\obj\Debug\StatWindow.baml
